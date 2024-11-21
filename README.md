@@ -1,16 +1,16 @@
 # Api Carros
 
-Criar um projeto com SpringBoot
+Projeto com SpringBoot
 
-Criar um web service que se conecta no banco de dados MySQL
+Criado um web service que se conecta no banco de dados MySQL
 
 Retornar os dados no formato JSON
 
-Criar um web service CRUD completo para criar, buscar, editar e excluir os dados
+Criado um web service CRUD completo para criar, buscar, editar e excluir os dados
 
-Aprender a utilizar o framework de persistência JPA (Java Persistence Api)
+Framework de persistência JPA (Java Persistence Api)
 
-Aprender sobre o padrão rest e códigos de retorno HTTP (220, 404, 500, etc)
+Padrão rest e códigos de retorno HTTP (220, 404, 500, etc)
 
 Utilizar libs que aceleram a produtividade do desenvolvimento;
 
